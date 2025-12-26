@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan2114&layout=compact)
-
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stefan2114&layout=compact)
 <!--
 **Stefan2114/Stefan2114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
